@@ -1,0 +1,10 @@
+# Ansible
+.ansible_password
+*.retry
+
+# Vagrant
+.vagrant
+
+# Terraform
+.terraform
+tfplan
